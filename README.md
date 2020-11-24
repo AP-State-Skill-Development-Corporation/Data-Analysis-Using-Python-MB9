@@ -18,6 +18,8 @@ Welcome to APSSDC Data Analysis Using Python Training this repository consists o
 
 #### Register yourself @ APSSDC Engineering Portal → [[Click Here & Register]](http://engineering.apssdc.in/register)
 
+#### Slack Channel for Communication and Discussion → [[Click Here to Join]](https://join.slack.com/t/apssdc-community/shared_invite/zt-ihlb1tdx-Q~JMX0hblP9~9srnZ8jzww)
+
 ### Instructions for attendance
 
 Everyone should compulsory follow the below instruction in order to get the attendance --> Certificate
@@ -27,7 +29,7 @@ Everyone should compulsory follow the below instruction in order to get the atte
 3. Don't give spaces between rollnumber and name (only - single minus or hyphen character)
 4. Make sure roll number should match with the registered roll number
 5. Minimum **`120`** minutes should attend in **`150 minutes`** session with same login format
-
+----------------------------
 <!-----
 ******************************
 Reference purpose follow this below things
