@@ -52,4 +52,20 @@ Discussed Concepts:
 *************************
 --->
 
+## Day01 Introduction to Data and Data Analysis Using Python (25-Nov-2020)
 
+## Discussed Concepts:
+
+- Introduction to Data
+- Steps involved in Data Analysis
+- Types of Data in Statistics (Numerical & Categorical)
+- Types of data in real world
+- Introduction to Python
+- Features and Applications of Python
+- Ananconda Software installation for Jupyter Notebook
+
+
+### [[Day01_Discussed_Slides]](Day01_25Nov2020/Data_Analysis_Using_Python_Slides.pdf)
+### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/217ae52e586165a1703e8d0854ef3207c29662d64e142020243dd4aae57ec3ac)
+
+-----------
