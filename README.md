@@ -69,3 +69,30 @@ Discussed Concepts:
 ### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/217ae52e586165a1703e8d0854ef3207c29662d64e142020243dd4aae57ec3ac)
 
 -----------
+
+## Day02 Python Overview & Numpy Basics (26-Nov-2020)
+
+## Discussed Concepts:
+- Literate Programming
+- Jupyter Notebook Environment
+- Markdown format for documentation
+- Python Overview
+    - input/output
+    - Conditional Statements in python
+        - if
+        - if else
+        - if-elif-else
+    - List
+    - Tuple
+    - Dictionary
+    - Files
+    - Modules & Packages
+ - Data Manipulation with NumPy
+    - Introduction
+    - NumPy Arrays
+    - NumPy Basics
+
+### Day02 Jupyter Notebook [[.ipynb format]](Day02_26Nov2020/Python_Overview_&_Numpy_Basics.ipynb), [[.pdf format]](Day02_26Nov2020/Python_Overview_&_Numpy_Basics.pdf)
+
+### [[Day02 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/fa894c5f28a9c8540961845e34edf6d0209cce629f1f78f80c2931fa4cc4a949)
+********
