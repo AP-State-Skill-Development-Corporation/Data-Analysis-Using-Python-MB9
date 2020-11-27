@@ -6,6 +6,10 @@ Welcome to APSSDC Data Analysis Using Python Training this repository consists o
 
 <!---
 #### Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]]()
+
+#### Please provide your details and fill the pre-course survey → [[Click Here]](https://forms.gle/WhdfbsXxBYrSWDvi9)
+
+#### Register yourself @ APSSDC Engineering Portal → [[Click Here & Register]](http://engineering.apssdc.in/register)
 --->
 
 #### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/apssdcml5) → Meeting Id → 699-213-605
@@ -14,9 +18,7 @@ Welcome to APSSDC Data Analysis Using Python Training this repository consists o
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
-#### Please provide your details and fill the pre-course survey → [[Click Here]](https://forms.gle/WhdfbsXxBYrSWDvi9)
 
-#### Register yourself @ APSSDC Engineering Portal → [[Click Here & Register]](http://engineering.apssdc.in/register)
 
 #### Slack Channel for Communication and Discussion → [[Click Here to Join]](https://join.slack.com/t/apssdc-community/shared_invite/zt-ihlb1tdx-Q~JMX0hblP9~9srnZ8jzww)
 
