@@ -6,6 +6,10 @@ Welcome to APSSDC Data Analysis Using Python Training this repository consists o
 
 <!---
 #### Check your details here same will applicable on certificates if your details are missing update in last column  → [[GSheet]]()
+
+#### Please provide your details and fill the pre-course survey → [[Click Here]](https://forms.gle/WhdfbsXxBYrSWDvi9)
+
+#### Register yourself @ APSSDC Engineering Portal → [[Click Here & Register]](http://engineering.apssdc.in/register)
 --->
 
 #### Gotomeeting Link → [[Click Here to Join]](https://www.gotomeet.me/apssdcml5) → Meeting Id → 699-213-605
@@ -14,9 +18,7 @@ Welcome to APSSDC Data Analysis Using Python Training this repository consists o
 
 #### Few resources avaliable @ [[resources.md]](resources.md) file don't forget to use them
 
-#### Please provide your details and fill the pre-course survey → [[Click Here]](https://forms.gle/WhdfbsXxBYrSWDvi9)
 
-#### Register yourself @ APSSDC Engineering Portal → [[Click Here & Register]](http://engineering.apssdc.in/register)
 
 #### Slack Channel for Communication and Discussion → [[Click Here to Join]](https://join.slack.com/t/apssdc-community/shared_invite/zt-ihlb1tdx-Q~JMX0hblP9~9srnZ8jzww)
 
@@ -69,3 +71,30 @@ Discussed Concepts:
 ### [[Day01_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/217ae52e586165a1703e8d0854ef3207c29662d64e142020243dd4aae57ec3ac)
 
 -----------
+
+## Day02 Python Overview & Numpy Basics (26-Nov-2020)
+
+## Discussed Concepts:
+- Literate Programming
+- Jupyter Notebook Environment
+- Markdown format for documentation
+- Python Overview
+    - input/output
+    - Conditional Statements in python
+        - if
+        - if else
+        - if-elif-else
+    - List
+    - Tuple
+    - Dictionary
+    - Files
+    - Modules & Packages
+ - Data Manipulation with NumPy
+    - Introduction
+    - NumPy Arrays
+    - NumPy Basics
+
+### Day02 Jupyter Notebook [[.ipynb format]](Day02_26Nov2020/Python_Overview_&_Numpy_Basics.ipynb), [[.pdf format]](Day02_26Nov2020/Python_Overview_&_Numpy_Basics.pdf)
+
+### [[Day02 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/fa894c5f28a9c8540961845e34edf6d0209cce629f1f78f80c2931fa4cc4a949)
+********
