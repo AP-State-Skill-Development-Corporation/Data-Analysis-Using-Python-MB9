@@ -98,3 +98,20 @@ Discussed Concepts:
 
 ### [[Day02 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/fa894c5f28a9c8540961845e34edf6d0209cce629f1f78f80c2931fa4cc4a949)
 ********
+
+
+## Day03 Data Manipulation with NumPy (27-Nov-2020)
+
+1. Numpy Basics
+2. Math
+3. Random
+4. Indexing
+5. Filtering
+6. Statistics
+7. Aggregation
+8. Saving/Retriving Data
+
+### Day03 Jupyter Notebook [[.ipynb format]](Day03_27Nov2020/Data_Manuplation_using_Numpy.ipynb), [[.pdf format]](Day03_27Nov2020/Data_Manuplation_using_Numpy.pdf)
+
+### [[Day03 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/aa9f1e15d548eb617bed504facfe81dffa3f1f7785398fc9c38e120c26738755)
+********
