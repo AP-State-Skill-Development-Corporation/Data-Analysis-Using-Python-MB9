@@ -58,13 +58,13 @@ Discussed Concepts:
 
 ## Discussed Concepts:
 
-- Introduction to Data
-- Steps involved in Data Analysis
-- Types of Data in Statistics (Numerical & Categorical)
-- Types of data in real world
-- Introduction to Python
-- Features and Applications of Python
-- Ananconda Software installation for Jupyter Notebook
+1. Introduction to Data
+1. Steps involved in Data Analysis
+1. Types of Data in Statistics (Numerical & Categorical)
+1. Types of data in real world
+1. Introduction to Python
+1. Features and Applications of Python
+1. Ananconda Software installation for Jupyter Notebook
 
 
 ### [[Day01_Discussed_Slides]](Day01_25Nov2020/Data_Analysis_Using_Python_Slides.pdf)
@@ -75,24 +75,24 @@ Discussed Concepts:
 ## Day02 Python Overview & Numpy Basics (26-Nov-2020)
 
 ## Discussed Concepts:
-- Literate Programming
-- Jupyter Notebook Environment
-- Markdown format for documentation
-- Python Overview
-    - input/output
-    - Conditional Statements in python
+1. Literate Programming
+1. Jupyter Notebook Environment
+1. Markdown format for documentation
+1. Python Overview
+    1. input/output
+    1. Conditional Statements in python
         - if
         - if else
         - if-elif-else
-    - List
-    - Tuple
-    - Dictionary
-    - Files
-    - Modules & Packages
- - Data Manipulation with NumPy
-    - Introduction
-    - NumPy Arrays
-    - NumPy Basics
+    1. List
+    1. Tuple
+    1. Dictionary
+    1. Files
+    1. Modules & Packages
+1. Data Manipulation with NumPy
+    1. Introduction
+    1. NumPy Arrays
+    1. NumPy Basics
 
 ### Day02 Jupyter Notebook [[.ipynb format]](Day02_26Nov2020/Python_Overview_&_Numpy_Basics.ipynb), [[.pdf format]](Day02_26Nov2020/Python_Overview_&_Numpy_Basics.pdf)
 
@@ -114,4 +114,19 @@ Discussed Concepts:
 ### Day03 Jupyter Notebook [[.ipynb format]](Day03_27Nov2020/Data_Manuplation_using_Numpy.ipynb), [[.pdf format]](Day03_27Nov2020/Data_Manuplation_using_Numpy.pdf)
 
 ### [[Day03 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/aa9f1e15d548eb617bed504facfe81dffa3f1f7785398fc9c38e120c26738755)
+********
+
+## Day04 Data Analysis with Pandas (30-Nov-2020)
+
+1. Series
+1. DataFrame
+1. Indexing
+1. Features
+1. Filtering
+1. File imporitng
+1. Save/Data File Exporting
+
+### Day04 Jupyter Notebook [[.ipynb format]](Day04_30Nov2020/Day04_30Nov2020.ipynb)
+
+### [[Day04 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/b3b28f38ed33b6da50f71b1c7e28bb9a28af81c2bd1bc3dba842de27c9a41d0c)
 ********
