@@ -1,0 +1,10 @@
+,Day,Topic Name,Sub Topics,Duration
+0,1,Introduction to Data and Data Analysis Using Python,Introduction to Data Types of Data in Statistics (Numerical & Categorical) Types of data in real worldPython Introduction,2.5 hrs.
+1,2,Data Manipulation with NumPy,Introduction NumPy Arrays NumPy Basics Math Random Indexing,2.5 hrs.
+2,3,Introduction to Pandas and Pandas Series,Filtering Statistics Aggregation Saving DataIntroduction Series,2.5 hrs.
+3,4,Data Analysis with pandas,DataFrameCombiningIndexingFile I/OGroupingFeaturesFilteringSortingstatisticsPlotting,2.5 hrs.
+4,5,Data Preprocessing with Scikit-Learn,Introduction Standardizing Data Data Range Robust Scaling Normalizing Data Data Imputation,2.5 hrs.
+5,6,Cleaning Data in Python,Working with Duplicates and Missing Values Which values should be replace with missing values based on data Identifying and Eliminating Outliers Dropping duplicate data Filling missing data Applying on raw dataset and introduction to Kaggle and other data sources,2.5 hrs.
+6,7,Introduction to Data Visualization and Matplotlib,Introduction to Visualization and Python packages Matplotlib history Introduction to plotting Line Plot Scatter Plot Bar Graph Histogram Pie Chart Box Plot Tasks,2.5 hrs.
+7,8,Data Visualization using Seaborn,"Using Seaborn Styles Setting the default style Color Palettes Creating Custom Palettes stripplot() and swarmplot() boxplots, violinplots barplots, pointplots and countplots",2.5 hrs.
+8,9,Data Visualization using Seaborn,"Barplots, Pointplots and countplots Regression Plots Pair Plots Creating heatmaps Overview of the course",2.5 hrs.
