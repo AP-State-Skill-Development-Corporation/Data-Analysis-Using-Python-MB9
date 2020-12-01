@@ -130,3 +130,18 @@ Discussed Concepts:
 
 ### [[Day04 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/b3b28f38ed33b6da50f71b1c7e28bb9a28af81c2bd1bc3dba842de27c9a41d0c)
 ********
+
+## Day05 Data Analysis with Pandas (01-Dec-2020)
+
+1. Importing of Data from Multiple files
+1. Combining/merging of DataFrames (JOIN)
+1. Grouping 
+1. Statistics
+1. Sorting data
+1. Data Visualization
+1. Data Cleaning / Data Preprocessing
+
+### Day05 Jupyter Notebook [[.ipynb format]](Day05_01Dec2020/Day05_01Dec2020.ipynb)
+
+### [[Day05 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/e9da236c2a802109b34b4e4a5ee223275fc931d70690c03b093838f9336cef53)
+********
