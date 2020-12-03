@@ -145,3 +145,16 @@ Discussed Concepts:
 
 ### [[Day05 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/e9da236c2a802109b34b4e4a5ee223275fc931d70690c03b093838f9336cef53)
 ********
+
+### Day05 Data processing and Cleaning (02-Dec-2020)
+
+1. Standardization(standard scaler)
+1. Roboust Scaling
+1. DataRange(MinMax Scalar)
+1. Normalization
+1. replace the null values
+1. How to find out null values
+
+### Day05 Jupyter Notebook [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-MB9/blob/master/Day06_02Dec2020/02-12-2020(day6).ipynb)
+
+### [[Day05 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/15418999ef72bccf3ee6111eab7a7a37921f48c36a69ba734d5a665eabab752d)
