@@ -146,7 +146,7 @@ Discussed Concepts:
 ### [[Day05 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/e9da236c2a802109b34b4e4a5ee223275fc931d70690c03b093838f9336cef53)
 ********
 
-### Day05 Data processing and Cleaning (02-Dec-2020)
+### Day06 Data processing and Cleaning (02-Dec-2020)
 
 1. Standardization(standard scaler)
 1. Roboust Scaling
@@ -158,3 +158,17 @@ Discussed Concepts:
 ### Day06 Jupyter Notebook [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-MB9/blob/master/Day06_02Dec2020/02-12-2020(day6).ipynb)
 
 ### [[Day06 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/15418999ef72bccf3ee6111eab7a7a37921f48c36a69ba734d5a665eabab752d)
+********
+
+### Day07 Data Cleaning and Visulization(Matplotlib) (03-Dec-2020)
+
+1. Replace the missing values(bfill,nfill)
+1. dropping the null values
+1. Matplotlib
+### Day07 Jupyter Notebook [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-MB9/tree/master/Day07_03Dec2020)
+
+### [[Day07 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/feb0ea9f9f2c1c72e3794adee8095ba15eb0986f9f33ffdefb6aa9ba9907957c)
+********
+
+
+
