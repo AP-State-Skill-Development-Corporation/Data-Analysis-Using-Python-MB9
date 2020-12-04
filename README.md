@@ -162,7 +162,7 @@ Discussed Concepts:
 
 ### Day07 Data Cleaning and Visulization(Matplotlib) (03-Dec-2020)
 
-1. Replace the missing values(bfill,nfill)
+1. Replace the missing values(bfill,ffill,limit,replace)
 1. dropping the null values
 1. Matplotlib
 ### Day07 Jupyter Notebook [[.ipynb format]](https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-MB9/tree/master/Day07_03Dec2020)
