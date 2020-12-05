@@ -170,5 +170,27 @@ Discussed Concepts:
 ### [[Day07 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/feb0ea9f9f2c1c72e3794adee8095ba15eb0986f9f33ffdefb6aa9ba9907957c)
 ********
 
+### Day12 Data Visualization using Seaborn	Using Seaborn Styles (05-Nov-2020)
+### Discussed Concepts:
 
+1. Categorical scatterplots:
 
+    - stripplot() (with kind="strip"; the default)
+    - swarmplot() (with kind="swarm")
+2. Categorical distribution plots:
+    - boxplot() (with kind="box")
+    - violinplot() (with kind="violin")
+1. Setting the default style
+1. stripplot() and swarmplot()
+1. boxplot, violinplot
+1. Regression Plot
+1. barplot, pointplot and countplot
+1. Creating heatmap
+1. Creating pairplot
+
+### Day12 Jupyter Notebook [[.ipynb format]](Day09_05Dec2020/Day09_05Nov2020_Seaborn_Contd.ipynb), [[.pdf format]](Day09_05Dec2020/Day09_05Nov2020_Seaborn_Contd.pdf)
+
+### [[Day12_Recorded_Video]](https://transcripts.gotomeeting.com/#/s/ff40e070fccd2e3e5fdb951e992a14ce59ae50ff15de1ecd87c0b559e9acaa15)
+
+***************
+<img src="https://media1.tenor.com/images/98c6d5e76d6069f4f7d42ee937f4dc98/tenor.gif?itemid=15177778" alt="centered image" height = 249 width = 249/>
