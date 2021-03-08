@@ -156,7 +156,7 @@ Discussed Concepts:
 ### [[Day07 Recorded Video Link]](https://transcripts.gotomeeting.com/#/s/feb0ea9f9f2c1c72e3794adee8095ba15eb0986f9f33ffdefb6aa9ba9907957c)
 ********
 
-### Day12 Data Visualization using Seaborn	Using Seaborn Styles (05-Nov-2020)
+### Day12 Data Visualization using Seaborn	Using Seaborn Styles (05-Dec-2020)
 ### Discussed Concepts:
 
 1. Categorical scatterplots:
